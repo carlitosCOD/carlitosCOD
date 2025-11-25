@@ -1,5 +1,5 @@
 <h1 style="color: #ff0000; font-size: 3.5em; text-align: center; margin-top: 50px; margin-bottom: 20px;">
-¡Hola! Soy CarlitosCOD 👾
+¡HELLO! Soy CarlitosCOD 👾
 </h1>
 
 <p align="center">
