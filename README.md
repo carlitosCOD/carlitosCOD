@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff0000; font-size:3.5em; margin-top:50px; margin-bottom:20px;">
+
 ¡HELLO! Soy CarlitosCOD 👾
 </h1>
 
