@@ -42,17 +42,15 @@
           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
         </tr>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
+        </tr>
       </table>
     </td>
     <!-- ===== HERRAMIENTAS ===== -->
     <td valign="top">
       <h3 align="center">🛠️ Herramientas</h3>
       <table align="center">
-        <tr>
-          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
-          <td><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></td>
-          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td>
-        </tr>
         <tr>
           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/></td>
           <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></td>
@@ -62,6 +60,29 @@
           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
           <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
+        </tr>
+         <tr>
+          <td><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td>
+         <td><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></td>
+        </tr>
+      </table>
+    </td>
+     <td valign="top">
+      <h3 align="center">📊 Base de Datos</h3>
+      <table align="center">
+        <tr>
+          <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="40"/></td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></td>
+          <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/></td>
+        </tr>
+        <tr>
+          <td>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</td>
+          <td>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+</td>
         </tr>
       </table>
     </td>
