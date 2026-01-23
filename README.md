@@ -44,7 +44,6 @@
         </tr>
       </table>
     </td>
-    <td width="40"></td>
     <!-- ===== HERRAMIENTAS ===== -->
     <td valign="top">
       <h3 align="center">🛠️ Herramientas</h3>
