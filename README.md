@@ -1,3 +1,7 @@
+
+
+
+
 <h1 align="center" style="color: #ffdd00; font-size: 3em; text-align: center;">
   ¡HELLO! Soy CarlitosCOD 👾
 </h1>
@@ -66,7 +70,8 @@
   </tr>
 </table>
 
-🔗 Conéctate Conmigo  
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>Conéctate Conmigo
+
 📧 **GMAIL:** arc220303@gmail.com
 
 <p align="center">
