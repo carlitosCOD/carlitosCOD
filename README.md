@@ -7,6 +7,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
 </p>
 
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"
   width="20%" style="border-radius:10px; max-width:20px;" />
@@ -19,42 +21,51 @@
 </h2>
 
 <p align="center">
-  Una selección visual de las herramientas que domino (aún buscando más iconos 🔍).
+  Una selección visual de las tecnologías que domino.
 </p>
+
 <table align="center">
-  <tr>
-    <!-- Columna Izquierda -->
-    <td align="center" width="250px">
-
-      <img src="https://github.com/user-attachments/assets/836b51cd-fecc-4ab6-905f-a3b48897a817" width="60px" /><br>
-      <strong>CSS</strong>
-
-      <br><br>
-
-      <img src="https://github.com/user-attachments/assets/398c5ff2-473c-4c88-9446-0a0ae8728317" width="60px" /><br>
-      <strong>JavaScript</strong>
-
+    <!-- ===== LENGUAJES ===== -->
+    <td valign="top">
+      <h3 align="center">🧠 Lenguajes</h3>
+      <table>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></td>
+        </tr>
+      </table>
     </td>
-
-    <!-- Columna Derecha -->
-    <td align="center" width="250px">
-
-      <img src="https://github.com/user-attachments/assets/a2f33942-5aec-4c8d-be4f-3d760298f8e5" width="60px" /><br>
-      <strong>Git</strong>
-
-      <br><br>
-
-      <img src="https://github.com/user-attachments/assets/7b53f632-4ae8-4c15-887c-6fda190d1037" width="60px" /><br>
-      <strong>IntelliJ IDEA</strong>
-
-    </td>
-  </tr>
+    <!-- ===== HERRAMIENTAS ===== -->
+    <td valign="top">
+      <h3 align="center">🛠️ Herramientas</h3>
+      <table>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
+          <td><img src="https://reactnative.dev/img/header_logo.svg" width="40"/></td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/></td>
+          <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></td>
+          <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></td>
+          <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></td>
+        </tr>
+  
+  </td>
 </table>
 
-
-### 🔗 Conéctate Conmigo  
-📧 **GMAIL:** arc220303@gmail.com
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
-</p>
+<h2 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" />
+  Lenguajes y Herramientas
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" />
+</h2>
